@@ -1,0 +1,5 @@
+# Optional static fallback only. Dynamic UA Helper licensing remains primary.
+# Add one older UAD-2/DSP/Legacy plug-in filename or product name per line.
+# Example: UAD Example Legacy Plugin
+#
+# Keep this file empty when the UA Cloud Helper covers all of your plug-ins.
